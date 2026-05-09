@@ -1,0 +1,78 @@
+{
+  "settings": {
+    "defaultCollege": "barishal",
+    "defaultLogoMode": "transparent",
+    "defaultTheme": "purple",
+    "pdfFileName": "Student-ID-Card.pdf",
+    "developer": {
+      "name": "@thenomandev",
+      "subtitle": "Premium Student ID Card Studio",
+      "version": "Version 2.0 • Professional Edition",
+      "copyright": "Copyright © 2026 ThenomanDev. All Rights Reserved.",
+      "contactTitle": "Connect With Us"
+    },
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/nknoman20",
+      "instagram": "https://www.instagram.com/nknoman20",
+      "whatsapp": "https://wa.me/8801930474720",
+      "telegram": "https://t.me/thenomandev",
+      "email": "mailto:thenomandev@gmail.com"
+    },
+    "notice": {
+      "line1": "এই কার্ডটি হস্তান্তরযোগ্য নয়।",
+      "line2": "এটি পরিত্যক্ত অবস্থায় পাওয়া গেলে",
+      "line3": "নিম্নোক্ত ঠিকানায় পৌঁছানোর অনুরোধ রইলো।"
+    },
+    "defaultQrText": "StudentID"
+  },
+
+  "colleges": {
+    "barishal": {
+      "bangla": "বরিশাল সরকারি কলেজ, বরিশাল",
+      "english": "Barishal Govt. College, Barishal",
+      "established": "১৯৬৩",
+      "phone": "০২৪৭৮৮-৬৪৬১৪",
+      "email": "principal_gbc@yahoo.com",
+      "website": "www.gbc.gov.bd",
+      "logo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/Barishal%20Govt.%20College%20Logo.png",
+      "transparentLogo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/Barishal%20Govt.%20College/Barishal%20Govt.%20College%20Transparent%20Logo.png",
+      "signature": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/Principal%20signature/Barisal%20College%20Principal%20signature%20.png"
+    },
+
+    "bm": {
+      "bangla": "সরকারি ব্রজমোহন কলেজ, বরিশাল",
+      "english": "Government Brojomohun College, Barishal",
+      "established": "১৮৮৯",
+      "phone": "০২৪৭৮৮-৬৪৯০৯, ০২-৬৪৭৯৩",
+      "email": "principal@bmcollege.gov.bd",
+      "website": "www.bmcollege.gov.bd",
+      "logo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/BM%20College%20Logo.png",
+      "transparentLogo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/BM%20College%20Logo.png",
+      "signature": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/Principal%20signature/BM%20College%20Principal%20signature.png"
+    },
+
+    "hatem": {
+      "bangla": "সরকারি সৈয়দ হাতেম আলী কলেজ, বরিশাল",
+      "english": "Govt. Syed Hatem Ali College, Barishal",
+      "established": "১৯৬৬",
+      "phone": "০২৪৭৮৮-৬৪৯৮৪",
+      "email": "hatemalicollegebarisal@yahoo.com",
+      "website": "www.gshac.gov.bd",
+      "logo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/Govt.%20Syed%20Hatem%20Ali%20College%20Logo.png",
+      "transparentLogo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/Govt.%20Syed%20Hatem%20Ali%20College%20Logo.png",
+      "signature": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/Principal%20signature/Govt.%20Syed%20Hatem%20Ali%20College%20Principal%20signature.png"
+    },
+
+    "women": {
+      "bangla": "বরিশাল সরকারি মহিলা কলেজ, বরিশাল",
+      "english": "Barisal Govt Women's College, Barishal",
+      "established": "১৯৫৭",
+      "phone": "০৪৩১-৬৪৯৯২",
+      "email": "bgwcinfo@yahoo.com",
+      "website": "www.bwc.gov.bd",
+      "logo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/barisal%20govt%20women%27s%20college%20Logo.png",
+      "transparentLogo": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/College%20Logo/barisal%20govt%20women%27s%20college%20Logo.png",
+      "signature": "https://raw.githubusercontent.com/thenomandev/media/main/Student%20ID%20Card%20WebApps/Principal%20signature/barisal%20govt%20women%27s%20college%20Principal%20signature.png"
+    }
+  }
+}
